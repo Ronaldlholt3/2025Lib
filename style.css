@@ -1,0 +1,28 @@
+body {
+background-image: url("https://64.media.tumblr.com/8ea1f0679e6e54919cee1783d7b00a19/tumblr_o5o56s1qk51s8mouyo3_r1_1280.gifv");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.lib_form {
+    display: flex;
+    justify-content: center;
+}
+
+ul {
+    list-style-type: none;
+  }
+
+.train_title {
+    color:rgb(183, 113, 21);
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    font-weight: bold;
+    color: rgb(183, 113, 21);
+    font-size: 25px;
+    
+}
